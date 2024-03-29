@@ -12,12 +12,13 @@ The key parameters calculated are
 - The Total number of different types of ratings are _
 
 
-####Dataset
+###Dataset
 I obtained the dataset from Kagle. The data of the CSV file was then cleaned and loaded into PowerBI
 Link for the dataset - [Kaggle](https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows)
+
 ![image](https://github.com/AwesomeAru/Amazon-Prime-Stats-Dashboard-PowerBI/assets/93476957/934cda6e-5d6a-4e7d-b460-c0b322e68da8)
 
-####Analyzing data 
+###Analyzing data 
 Analyzed data and made inferences. Used maps, bar charts, donut chart and cards to display data on the dashboard
 
 
