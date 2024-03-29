@@ -9,7 +9,7 @@ The key parameters calculated are
 ### Key Takeaways 
 - Majority of people watch movies (82%) over TV shows (18%)
 - The highest view count occurs in countries - India, US
-- The Total number of different types of ratings are 
+- There are a total of 25 different types of ratings
 
 
 ### Dataset
